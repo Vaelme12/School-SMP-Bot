@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "School Smp Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "School Smp Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "School-SMP26.aternos.me",
+    "port": 62188,
     "version": "",
     "try-creative": false
   },
